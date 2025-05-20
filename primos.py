@@ -12,8 +12,6 @@ while(nro>1):
     else:
         count = count + 1
 
-
-
     nro = nro - 1
 
 
